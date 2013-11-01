@@ -34,15 +34,7 @@
     {
         "id": "org.nvda-project"
     },
-    
-    {
-        "id": "fluid.uiOptions.windows"
-    },
-    
-    {
-        "id": "fluid.uiOptions.linux"
-    },
-    
+        
     {
         "id": "org.gnome.desktop.interface"
     },
