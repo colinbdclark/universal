@@ -1,0 +1,19 @@
+{
+	"http://registry.gpii.org/common/fontSize": [
+		{
+			"value": 21
+		}
+	],
+
+	"http://registry.gpii.org/common/highContrastEnabled": [
+		{
+			"value": true
+		}
+	],
+
+	"http://registry.gpii.org/common/cursorSize": [
+		{
+			"value": 1.0
+		}
+	]
+}
